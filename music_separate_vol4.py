@@ -8,7 +8,7 @@ import re
 
 
 
-vol = "vol3"
+vol = "vol4"
 
 with open(f"{vol}.txt", "w") as file:
 	pass
@@ -17,7 +17,7 @@ with open(f"{vol}.txt", "w") as file:
 src_pdf= PyPDF2.PdfFileReader(open(f"{vol}.pdf", "rb"))
 
 start_page = 8
-end_page = 540
+end_page = 543
 # start_page = 119
 # end_page = 120
 prev_first_page_num = 0
@@ -43,7 +43,7 @@ for page_num in range(start_page,end_page):
 			prev_last_page_num = page_num
 			continue
 
-		if (re.search(r'[A-Z ]+\s+\d{3}',title)):
+		if (re.search(r'[A-Za-z ]+\s+\d{3}',title)):
 			title = re.split('(\d+)', title, maxsplit = 1)[0:2]
 			# title_temp = title
 			title = ' '.join(reversed(title)).strip()

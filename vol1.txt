@@ -1,6 +1,6 @@
-52-55 : How Great Is Your Name
+﻿52-55 : How Great Is Your Name
 56-58 : Those Doing Justice
-59-62 : Keep Me SafePsalm
+59-62 : Keep Me Safe
 63-66 : You Are My Inheritance
 67-69 : You Will Show Me the Path of Life
 70-73 : Lord, You Have the Words
@@ -34,11 +34,10 @@
 198-203 : Mi Alma Está Sedienta_My Soul Is Thirsting
 204-206 : Your Love Is Finer than Life
 207-210 : I Will Sing of Your Salvation
-211-215 : Every Nation On Earth*The Refrain is always sung twice.
+211-215 : Every Nation On Earth
 216-219 : Lord, Make Us Turn to You
 220-224 : How Lovely Is Your Dwelling Place
-225-228 : Lord, Let Us See Your KindnessPsalm
-229-228 : Lord, Let Us See Your Kindness
+225-229 : Lord, Let Us See Your Kindness
 230-235 : Lord, Show Us Your Mercy
 236-242 : For Ever I Will Sing
 243-245 : Fill Us with Your Love, O Lord
@@ -68,7 +67,7 @@
 356-358 : Let My Tongue Be Silenced
 359-361 : In the Sight of the Angels
 362-370 : Wonderfully Made
-371-377 : SUBA MI ORACIÓN_LET MY PRAYER RISE UP
+371-377 : Let My Prayer Rise Up_Suba Mi Oración
 378-381 : My Prayers Rise Like Incense
 382-383 : I Will Praise Your Name for Ever
 384-388 : I Will Praise the Lord

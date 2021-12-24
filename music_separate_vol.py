@@ -8,7 +8,7 @@ import re
 
 
 
-vol = "vol3"
+vol = "vol6"
 
 with open(f"{vol}.txt", "w") as file:
 	pass
@@ -16,7 +16,7 @@ with open(f"{vol}.txt", "w") as file:
 
 src_pdf= PyPDF2.PdfFileReader(open(f"{vol}.pdf", "rb"))
 
-start_page = 8
+start_page = 42
 end_page = 540
 # start_page = 119
 # end_page = 120
@@ -33,7 +33,7 @@ for page_num in range(start_page,end_page):
 	
 	# print(text)
 
-	regex = re.compile('[A-Z]^(?!.*page)$[a-z]+[A-Za-z,/ ]+\s.\d{3}|\d{3}\s+[A-Za-z]+.[A-Za-z,/ ]+')
+	regex = re.compile('[A-Z]^(?!.*page)$[a-z]+[A-Za-z,/ ]+\s.\d{3,4}|\d{3,4}\s+[A-Za-z]+.[A-Za-z’!,/ ]+')
 	
 	
 	

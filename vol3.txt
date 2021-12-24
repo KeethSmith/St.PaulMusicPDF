@@ -1,3 +1,22 @@
+8-9 : 419 HOLY, HOLY, HOLY
+10-10 : 010 Music: Missa Emmanuel, Richard Proulx,
+11-11 : 010 Music: Missa Emmanuel, adapt
+12-14 : 422 HOLY, HOLY, HOLY
+15-15 : 010 Music: Mass for the City, Richard Proulx,
+16-16 : 423 MEMORIAL ACCLAMATION B
+17-17 : 010 Music: Mass for the City, Richard Proulx,
+18-20 : 424 AMEN
+21-21 : 010 Music: Corpus Christi Mass, Adoro te devote
+22-22 : 426 MEMORIAL ACCLAMATION B
+23-23 : 010 Music: Corpus Christi Mass, Adoro te devote
+24-26 : 428 HOLY, HOLY, HOLY
+27-27 : 010 Music: Deutsche Messe, Franz Schubert, adapt
+28-28 : 429 MEMORIAL ACCLAMATION A
+29-29 : 010 Music: Deutsche Messe, Franz Schubert,
+30-36 : 430 AMEN
+37-38 : 014 Music: Misa Luna, Peter M
+39-39 : 014 Music: Misa Luna, Peter M
+40-42 : 433 DOXOLOGY / AMEN
 43-43 : 010 Music: Misa Luna, Peter M
 44-47 : 434 THE LORD
 48-48 : 011 Lamb of God
@@ -35,6 +54,7 @@
 148-151 : 472 O Come, All Ye Faithful / Venid, Fieles Todos /
 152-153 : 474 Angels We Have Heard on High
 154-154 : 475 Hark! The Herald Angels Sing
+155-155 : 847 NEW CHANGES
 156-157 : 476 Silent Night / Noche de Paz
 158-161 : 477 Night of Silence
 162-163 : 478 Away in a Manger
@@ -43,10 +63,11 @@
 168-169 : 481 Rise Up, Shepherd, and Follow
 170-171 : 482 O Little Town of Bethlehem
 172-172 : 483 Of the Father
+173-173 : 866 and Henry W
 174-175 : 484 Infant Holy, Infant Lowly
 176-179 : 485 Wood of the Cradle
 180-181 : 486 He Came Down
-182-183 : 488 A Child Is Born in Bethlehem / 
+182-183 : 488 A Child Is Born in Bethlehem /
 184-185 : 489 Good Christian Friends, Rejoice
 186-187 : 490 Love Has Come
 188-190 : 491 The Table of Emmanuel
