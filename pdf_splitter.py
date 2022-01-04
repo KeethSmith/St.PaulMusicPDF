@@ -5,7 +5,7 @@ import io
 import re
 
 
-vol = "vol2"
+vol = "vol6"
 
 src_pdf= PyPDF2.PdfFileReader(open(f"{vol}.pdf", "rb"))
 
@@ -23,7 +23,11 @@ for sub_text in text:
 	split_text = sub_text.split(' : ')
 	first_page = int(split_text[0].split('-')[0])
 	last_page = int(split_text[0].split('-')[1])
-	title = split_text[1]
+	orig_title = split_text[1]
+	title = re.split('(\d+)', orig_title, maxsplit = 1)[-1].strip()
+	title_num = re.split('(\d+)', orig_title, maxsplit = 1)[-2].strip()
+	# print(title_num, title)
+	# exit()
 
 
 	writer = PyPDF2.PdfFileWriter()
@@ -36,7 +40,7 @@ for sub_text in text:
 			writer.addPage(src_pdf.getPage(x-1))
 
 	
-	with open(f'{vol}/{title} - G4.pdf', 'wb') as outfile:
+	with open(f'{vol}/{title} - {title_num} - G4.pdf', 'wb') as outfile:
 		writer.write(outfile)
 
 

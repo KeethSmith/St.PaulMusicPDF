@@ -1,85 +1,86 @@
-8-9 : 419 HOLY, HOLY, HOLY
-10-10 : 010 Music: Missa Emmanuel, Richard Proulx,
-11-11 : 010 Music: Missa Emmanuel, adapt
-12-14 : 422 HOLY, HOLY, HOLY
-15-15 : 010 Music: Mass for the City, Richard Proulx,
-16-16 : 423 MEMORIAL ACCLAMATION B
-17-17 : 010 Music: Mass for the City, Richard Proulx,
-18-20 : 424 AMEN
-21-21 : 010 Music: Corpus Christi Mass, Adoro te devote
-22-22 : 426 MEMORIAL ACCLAMATION B
-23-23 : 010 Music: Corpus Christi Mass, Adoro te devote
-24-26 : 428 HOLY, HOLY, HOLY
-27-27 : 010 Music: Deutsche Messe, Franz Schubert, adapt
-28-28 : 429 MEMORIAL ACCLAMATION A
-29-29 : 010 Music: Deutsche Messe, Franz Schubert,
-30-36 : 430 AMEN
-37-38 : 014 Music: Misa Luna, Peter M
-39-39 : 014 Music: Misa Luna, Peter M
-40-42 : 433 DOXOLOGY / AMEN
-43-43 : 010 Music: Misa Luna, Peter M
-44-47 : 434 THE LORD
-48-48 : 011 Lamb of God
-49-49 : 011 Music: Mass of Remembrance, Marty Haugen,
+﻿8-10 : 419 HOLY, HOLY, HOLY-MISSA EMMANUEL
+10-11 : 420 MEMORIAL ACCLAMATION A 
+11-11 : 421 AMEN
+12-15 : 422 HOLY, HOLY, HOLY-MASS FOR THE CITY
+16-17 : 423 MEMORIAL ACCLAMATION B
+18-18 : 424 AMEN
+19-21 : 425 HOLY, HOLY, HOLY-CORPUS CHRISTI MASS
+22-23 : 426 MEMORIAL ACCLAMATION B
+23-23 : 427 AMEN
+24-27 : 428 HOLY, HOLY, HOLY-DEUTSCHE MESSE
+28-29 : 429 MEMORIAL ACCLAMATION A
+30-30 : 430 AMEN
+31-37 : 431 HOLY, HOLY, HOLY-MISA LUNA_SANTO, SANTO, SANTO
+37-39 : 432 MEMORIAL ACCLAMATION A_ACLAMACIÓN AL MEMORIAL A
+40-43 : 433 DOXOLOGY_AMEN_DOXOLOGÍA_AMÉN
+44-47 : 434 THE LORD’S PRAYER
+48-49 : 435 LAMB OF GOD
 50-51 : 436 LAMB OF GOD
 52-53 : 437 LAMB OF GOD
 54-55 : 438 LAMB OF GOD
-56-61 : 439 LAMB OF GOD
-62-65 : 442 LAMB OF GOD CORDERO DE DIOS
+56-56 : 439 LAMB OF GOD
+57-57 : 440 LAMB OF GOD
+57-61 : 441 LAMB OF GOD_CORDERO DE DIOS
+62-64 : 442 LAMB OF GOD_CORDERO DE DIOS
 66-67 : 443 CORDERO DE DIOS
-68-73 : 444 O Come, O Come, Emmanuel
+68-70 : 444 O Come, O Come, Emmanuel
+70-73 : 445 Preparen el Camino_Make Ready a Highway
 74-75 : 446 Prepare Ye the Way of the Lord
 76-77 : 447 People, Look East
-78-79 : 448 O Come, Divine Messiah
+78-79 : 448 O Come, Divine Messiah!
 80-83 : 449 Walk in the Reign
 84-85 : 450 The King Shall Come When Morning Dawns
-86-87 : 451 On Jordan
-88-89 : 453 Come, O Long
-90-93 : 454 My Soul in Stillness Waits /
+86-87 : 451 On Jordan’s Bank
+87-87 : 452 Prepare the Way of the Lord
+88-89 : 453 Come, O Long-Expected Jesus
+90-93 : 454 My Soul in Stillness Waits_En el Silencio Te Aguardo
 94-97 : 455 When You Come
-98-103 : 456 Wait for the Lord
+98-100 : 456 Wait for the Lord
+100-103 : 457 Come, Emmanuel
 104-106 : 458 Creator of the Stars of Night
-107-107 : 524 Savior of the Nations, Come
+107-107 : 429 Savior of the Nations, Come
 108-111 : 460 Maranatha, Lord Messiah
-112-115 : 461 Prepare! Prepare
+112-115 : 461 Prepare! Prepare!
 116-119 : 462 Comfort, My People
 120-123 : 463 Come, Lord Jesus
-124-129 : 464 Awake to the Day
+124-128 : 464 Awake to the Day
 130-131 : 465 When the King Shall Come Again
 132-133 : 466 Comfort, Comfort, O My People
-134-137 : 012 The Angel Gabriel from Heaven Came
-138-143 : 469 Gift of God
+134-134 : 467 The Angel Gabriel from Heaven Came
+135-137 : 468 Awake! Awake, and Greet the New Morn
+138-142 : 469 Gift of God
 144-145 : 470 It Came upon the Midnight Clear
 146-147 : 471 Joy to the World
-148-151 : 472 O Come, All Ye Faithful / Venid, Fieles Todos /
+148-149 : 472 O Come, All Ye Faithful_Venid, Fieles Todos_Adeste Fideles
+151-151 : 473 Go Tell It on the Mountain
 152-153 : 474 Angels We Have Heard on High
-154-154 : 475 Hark! The Herald Angels Sing
-155-155 : 847 NEW CHANGES
-156-157 : 476 Silent Night / Noche de Paz
+154-155 : 475 Hark! The Herald Angels Sing
+156-157 : 476 Silent Night_Noche de Paz
 158-161 : 477 Night of Silence
 162-163 : 478 Away in a Manger
 164-165 : 479 Away in a Manger
 166-167 : 480 Jesus Comes
 168-169 : 481 Rise Up, Shepherd, and Follow
 170-171 : 482 O Little Town of Bethlehem
-172-172 : 483 Of the Father
-173-173 : 866 and Henry W
+172-173 : 483 Of the Father’s Love Begotten
 174-175 : 484 Infant Holy, Infant Lowly
 176-179 : 485 Wood of the Cradle
-180-181 : 486 He Came Down
-182-183 : 488 A Child Is Born in Bethlehem /
+180-180 : 486 He Came Down
+181-181 : 487 Gloria, Gloria
+182-183 : 488 A Child Is Born in Bethlehem_Puer Natus in Bethlehem
 184-185 : 489 Good Christian Friends, Rejoice
 186-187 : 490 Love Has Come
 188-190 : 491 The Table of Emmanuel
-191-195 : 492 Mary Journeyed with Her Husband
+191-193 : 492 Hacia Belén_Mary Journeyed with Her Husband
+195-195 : 493 Gaudete
 196-197 : 494 In the Bleak Midwinter
 198-199 : 495 Sing We Now of Christmas
-200-201 : 496 Lo, How a Rose E
-202-203 : 497 Once in Royal David
+200-201 : 496 Lo, How a Rose E’er Blooming
+202-203 : 497 Once in Royal David’s City
 204-205 : 498 Come, Sing a Home and Family
 206-207 : 499 You Have Called Us Here Together
 208-210 : 500 A Weary Couple
-211-211 : 012 Gentle Mary Laid Her ChildHarm
+211-211 : 501 Gentle Mary Laid Her Child
 212-213 : 502 Sing of Mary, Pure and Lowly
 214-215 : 503 Jesus, the Light of the World
 216-217 : 504 We Three Kings of Orient Are
@@ -88,16 +89,21 @@
 222-223 : 507 The First Nowell
 224-225 : 508 What Child Is This
 226-227 : 509 Epiphany Carol
-228-232 : 510 What Star Is This
-233-233 : 690 To Jordan Jesus Humbly CameTo Jordan Jesus Humbly Came
+228-228 : 510 What Star Is This
+229-231 : 511 Where the Promise Shines
+233-233 : 512 To Jordan Jesus Humbly Came
 234-237 : 513 Merciful God
 238-239 : 514 Hosea
-240-247 : 515 Parce Domine
+240-241 : 515 Parce Domine
+241-246 : 516 Hold Us in Your Mercy-Penitential Litany
 248-249 : 517 Have Mercy on Us
-250-251 : 518 Lord, Who throughout These Forty Days
+250-250 : 518 Lord, Who throughout These Forty Days
+251-251 : 519 Salvator Mundi
 252-255 : 520 Jerusalem, My Destiny
-256-259 : 521 Tree of Life
-260-261 : 523 Again We Keep This Solemn Fast
+256-258 : 521 Tree of Life
+259-259 : 522 Adoramus Te Christe
+260-260 : 523 Again We Keep This Solemn Fast
+261-261 : 524 O Sun of Justice
 262-263 : 525 Gather Us in Mercy, Lord
 264-269 : 526 Mercy, O God
 270-273 : 527 The Cross of Jesus
@@ -111,73 +117,80 @@
 294-295 : 535 All Glory, Laud, and Honor
 296-299 : 536 Palm Sunday Processional
 300-301 : 537 Ride On, Jesus, Ride
-302-303 : 538 Jesu, Jesu / Jes
+302-303 : 538 Jesu, Jesu_Jesús, Jesús
 304-305 : 539 Stay Here and Keep Watch
-306-313 : 540 Stay with Me
+306-308 : 540 Stay with Me
+309-313 : 541 Called to the Supper
 314-317 : 542 So You Must Do
-318-321 : 543 Prepare a Room for Me
+318-318 : 543 Prepare a Room for Me
+319-321 : 544 Glory in the Cross
 322-323 : 545 We Glory in the Cross
 324-329 : 546 Jesus Took a Towel
 330-333 : 547 This Is How
 334-337 : 548 Ubi Caritas
-338-339 : 549 O Sacred Head, Surrounded / Oh Rostro Ensangrentado
-340-343 : 021 Way of the Cross
-344-349 : 551 Behold the Wood
+338-339 : 549 O Sacred Head, Surrounded_Oh Rostro Ensangrentado
+340-343 : 550 Way of the Cross
+344-346 : 551 Behold the Wood
+347-349 : 552 In the Cross of Christ
 350-353 : 553 Faithful Cross
 354-355 : 554 Were You There
 356-359 : 555 Tree of Life and Glory
 360-361 : 556 Jesus Christ Is Risen Today
-362-364 : 557 Resucitó
-365-365 : 957 Published by OCP
+362-365 : 557 Resucitó
 366-367 : 558 This Is the Feast of Victory
-368-371 : 559 Easter Alleluia
-372-374 : 560 At the Lamb
-375-375 : 821 Christ the Lord Is Risen Today
-376-377 : 563 Sing with All the Saints in Glory /
+368-370 : 559 Easter Alleluia
+372-373 : 560 At the Lamb’s High Feast We Sign
+374-374 : 561 I Know That My Redeemer Lives!
+375-375 : 562 Christ the Lord Is Risen Today
+376-377 : 563 Sing with All the Saints in Glory_Canten con Gloriosos Fieles
 378-379 : 564 Now the Green Blade Rises
 380-381 : 565 Christ Has Risen
-382-383 : 566 O Sons and Daughters
-384-387 : 888 with alleluia and refrain
+382-384 : 566 O Sons and Daughters
+384-385 : 567 Goodness Is Stronger than Evil
+385-387 : 568 Surrexit Christus
 388-391 : 569 Be My Hands and Feet
-392-395 : 570 Worthy Is the Lamb
-396-396 : 571 Joyous Cup
-397-397 : 114 and the Exsultet
+392-394 : 570 Worthy Is the Lamb
+396-397 : 571 Joyous Cup
 398-405 : 572 Emmaus
-406-409 : 573 We Walk His Way / Ewe, Thina
+406-409 : 573 We Walk His Way_Ewe, Thina
 410-413 : 574 Alleluia, Christ Is Risen
-414-415 : 575 Earth, Earth, Awake
-416-421 : 576 Regina Caeli / O Queen of Heaven
-422-424 : 580 Christ Has Arisen, Alleluia /
-425-425 : 888 with alleluias
+414-415 : 575 Earth, Earth, Awake!
+416-416 : 576 Regina Caeli_O Queen of Heaven
+417-417 : 577 Be Joyful, Mary
+418-418 : 578 Christ the Lord Is Risen!
+419-421 : 579 On the Journey to Emmaus
+422-423 : 580 Christ Has Arisen, Alleluia_Mfurahini Haleluya
+425-425 : 581 Good Christians All
 426-431 : 582 In the Breaking of the Bread
-432-433 : 583 A Hymn of Glory Let Us Sing
-434-434 : 584 Hail the Day That Sees Him Rise
-435-435 : 821 updated text from OC
-436-441 : 585 Go Out to the World
-442-442 : 586 Go to the World
-443-443 : 958 change
+432-433 : 583 A Hymn of Glory Let Us Sing!
+434-435 : 584 Hail the Day That Sees Him Rise
+436-440 : 585 Go Out to the World
+442-443 : 586 Go to the World!
 444-447 : 587 I Will Be with You
-448-448 : 588 O Holy Spirit, by Whose Breath
-449-450 : 575 and in a lower key
-451-451 : 958 Come Down, O Love Divine
+448-449 : 588 O Holy Spirit, by Whose Breath
+451-451 : 589 Come Down, O Love Divine
 452-453 : 590 Veni Sancte Spiritus
 454-455 : 591 Come, Holy Spirit, on Us Shine
 456-459 : 592 Holy Spirit, Come
 460-463 : 593 Send Down the Fire
 464-467 : 594 Holy Spirit
 468-469 : 595 Veni Creator Spiritus
-470-473 : 596 Holy Spirit, Come to Us
+470-472 : 596 Holy Spirit, Come to Us
+473-473 : 597 Spirit of the Living God
 474-477 : 598 Spirit of God
-478-479 : 599 O Spirit All
+478-479 : 599 O Spirit All-Embracing
 480-483 : 600 By the Waking of Our Hearts
-484-487 : 601 Come, Holy Ghost
+484-485 : 601 Come, Holy Ghost
+485-487 : 602 Jesus, Your Spirit in Us
 488-495 : 603 Holy Spirit
 496-499 : 604 Come, Holy Spirit, Come
-500-507 : 605 Lord, Send Out Your Spirit /
+500-507 : 605 Lord, Send Out Your Spirit_Señor, Envía Tu Espíritu
 508-515 : 606 Holy Spirit, We
 516-517 : 607 How Wonderful the Three
 518-521 : 608 Most Holy
-522-525 : 609 O Dawn of All Creation
-526-531 : 011 Let There Be Light
-532-533 : 611 Holy, Holy, Holy
-534-535 : 613 Hidden Here before Me / Adoro Te Devote
+522-524 : 609 O Dawn of All Creation
+526-531 : 610 Let There Be Light
+532-532 : 611 Holy, Holy, Holy! Lord God Almighty!
+533-533 : 612 O God, Almighty Father
+534-536 : 613 Hidden Here before Me_Adoro Te Devote
+536-538 : 614 O Christ, Your Heart Compassionate

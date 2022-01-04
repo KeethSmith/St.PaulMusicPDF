@@ -1,18 +1,32 @@
-42-45 : 979 Desde el Cielo / From the Heavens
-46-49 : 980 Mañanitas a la Virgen de Guadalupe /
-50-53 : 981 Buenos D
+﻿8-11 : 966 Salve Regina_Hail, Queen of Heaven
+12-13 : 967 Hail, Holy Queen Enthroned Above
+14-15 : 968 Lift High the Cross_Alcen la Cruz
+16-19 : 969 Crux Fidelis
+20-20 : 970 For All the Saints Who’ve Shown Your Love
+21-23 : 971 For All the Saints
+24-25 : 972 Ye Watchers and Ye Holy Ones
+26-27 : 973 For the Faithful Who Have Answered
+28-31 : 974 A Great Cloud of Witnesses
+32-33 : 975 Come and See the Many Wonders
+34-37 : 976 Faith of Our Mothers
+38-39 : 977 Immaculate Mary
+40-41 : 978 Adiós, Reina del Cielo_Adiós, O Queen of Heaven
+42-45 : 979 Desde el Cielo_From the Heavens
+46-49 : 980 Mañanitas a la Virgen de Guadalupe_Morning Praises to the Virgin of Guadalupe
+50-53 : 981 Buenos Días, Paloma Blanca_Fairest Dove, Most Lovely Maiden
 54-55 : 982 Ave Maria
 56-63 : 983 Mary, First among Believers
-64-67 : 985 Litany of Mary /
+64-67 : 985 Litany of Mary_Letanía de la Santísima Virgen María
 68-73 : 986 Among All
 74-75 : 987 We Sing with Holy Mary
 76-83 : 988 Blessed One
-84-87 : 1990 Magnificat
-88-89 : 991 Serdeczna Matko / Most Loving Mother
+84-87 : 990 Magnificat
+88-89 : 991 Serdeczna Matko_Most Loving Mother
 90-91 : 992 Wash, O God, Our Sons and Daughters
 92-95 : 993 Baptized in Water
-96-99 : 5995 Sweet Refreshment
-100-101 : 996 Down to the River to Pray
+96-99 : 995 Sweet Refreshment
+100-100 : 996 Down to the River to Pray
+101-101 : 997 O Breathe on Me, O Breath of God
 102-105 : 998 For the Love Poured Down upon Us
 106-107 : 999 We Have Put on Christ
 108-109 : 1000 Come and Be Sealed
@@ -22,64 +36,66 @@
 118-123 : 1005 We Remember
 124-127 : 1006 Taste and See
 128-131 : 1007 Broken for the Broken
-132-135 : 1008 I Am the Bread of Life / Yo Soy el Pan de Vida
+132-135 : 1008 I Am the Bread of Life_Yo Soy el Pan de Vida
 136-139 : 1009 Take and Eat
 140-143 : 1010 All Who Hunger
 144-147 : 1011 Draw Near
 148-155 : 1012 May We Be One
 156-157 : 1013 Take and Eat This Bread
 158-161 : 1014 Pan de Vida
-162-165 : 1015 I Receive the Living God
+162-164 : 1015 I Receive the Living God
+165-165 : 1016 This Is the Body of Christ
 166-167 : 1017 At That First Eucharist
 168-169 : 1018 Alleluia! Sing to Jesus
-170-173 : 1019 Bread of Life from Heaven /
+170-173 : 1019 Bread of Life from Heaven_Pan de Vida Eterna
 174-181 : 1020 Jesus Is Here Right Now
 182-189 : 1021 With This Bread
 190-191 : 1022 Eat This Bread
-192-195 : 2018 At the Table of Jesus
+192-195 : 1023 At the Table of Jesus
 196-199 : 1024 Many and Great
-200-201 : 1025 Amén
+200-201 : 1025 Amén. El Cuerpo de Cristo
 202-205 : 1026 We Are One
-206-209 : 1027 Gusten y Vean / Taste and See
+206-209 : 1027 Gusten y Vean_Taste and See
 210-211 : 1028 As the Bread of Life Is Broken
 212-215 : 1029 From the Many, Make Us One
 216-217 : 1030 Let Us Break Bread Together
 218-219 : 1031 Come to Me, All Pilgrims Thirsty
 220-221 : 1032 You Satisfy the Hungry Heart
-222-225 : 2021 Carry Us in Your Arms
+222-225 : 1033 Carry Us in Your Arms
 226-231 : 1034 Make Us One
-232-237 : 1035 Al Partir el Pan / When We Break This Bread
+232-237 : 1035 Al Partir el Pan_When We Break This Bread
 238-241 : 1036 As We Gather at Your Table
 242-245 : 1037 Come, Receive the Living Bread
-246-253 : 1038 Ang Katawan ni Kristo /
+246-253 : 1038 Ang Katawan ni Kristo_Behold, the Body of Christ
 254-259 : 1039 Not by Bread Alone
 260-267 : 1040 Feed Us, Lord
 268-271 : 1041 In This Place
 272-275 : 1042 One Bread, One Body
-276-281 : 2021 Es Mi Cuerpo
+276-281 : 1043 Es Mi Cuerpo_Take and Eat This Bread
 282-287 : 1044 Whoever Eats My Flesh
 288-291 : 1045 I Am Yours
 292-295 : 1046 Lord Jesus Christ, Lover of All
 296-299 : 1047 Healed in Christ
 300-301 : 1048 He Healed the Darkness of My Mind
 302-303 : 1049 Stop By, Lord
-304-307 : 2012 When We Must Bear Persistent Pain
+304-304 : 1050 When We Must Bear Persistent Pain
+305-307 : 1051 Run to Jesus
 308-309 : 1052 The Master Came to Bring Good News
 310-312 : 1053 Remember Your Love
-313-313 : 1054 Alternate tune
+313-313 : 1054 Forgive Our Sins
 314-315 : 1055 God Is Forgiveness
 316-319 : 1056 I Will Arise
 320-323 : 1057 In a Time of Pain
 324-325 : 1058 Softly and Tenderly Jesus Is Calling
-326-326 : 1059 Our Father, We Have Wandered
-327-327 : 1750 add a comma after
+326-327 : 1059 Our Father, We Have Wandered
 328-329 : 1060 Come, You Sinners, Poor and Needy
-330-331 : 1061 Si Fui Motivo de Dolor /
-332-335 : 2021 FORGIVE THEM, FORGIVE US
-336-345 : 1063 Lord, I Need You
+330-331 : 1061 Si Fui Motivo de Dolor_If I Have Been the Source of Pain
+332-335 : 1062 Forgive Them, Forgive Us
+336-342 : 1063 Lord, I Need You
+343-345 : 1064 Healer of Our Every Ill
 346-349 : 1065 In Love We Choose to Live
 350-351 : 1066 Love Is the Sunlight
-352-353 : 1067 Si Yo No Tengo Amor / If I Do Not Have Love
+352-353 : 1067 Si Yo No Tengo Amor_If I Do Not Have Love
 354-355 : 1068 When Love Is Found
 356-357 : 1069 Love Has Brought Us Here Together
 358-359 : 1070 God, in the Planning
@@ -87,29 +103,17 @@
 362-365 : 1072 The Hand of God Shall Hold You
 366-373 : 1073 May the Angels Lead You into Paradise
 374-377 : 1074 I Know That My Redeemer Lives
-378-385 : 1075 Song of Farewell
-386-389 : 2011 Peace Be with Those
-390-391 : 1969 Rite of Funerals
+378-382 : 1075 Song of Farewell
+383-385 : 1076 May Choirs of Angels Lead You
+386-391 : 1077 Peace Be with Those
 392-393 : 1078 God of Love, Whose Mercies Daily
 394-397 : 1079 There Is a Place
 398-399 : 1080 I Call You to My Father
-400-405 : 1081 Entre Tus Manos
-406-412 : 1083 Santos de Dios / Saints of God
-413-413 : 1991 Obra Nacional
+400-402 : 1081 Entre Tus Manos
+403-405 : 1082 Go in Peace
+406-413 : 1083 Santos de Dios_Saints of God
 414-415 : 1084 Your Peace Will Make Us One
 416-417 : 1085 America the Beautiful
 418-419 : 1086 This Is My Song
 420-421 : 1087 Lift Every Voice and Sing
-422-422 : 1621 The God of All Eternity
-423-423 : 2010 Music: ICEL,
-424-426 : 1145 TRANSFER OF THE MOST BLESSED SACRAMENT
-427-427 : 2011 Easter Vigil Procession
-428-429 : 1159 BAPTISMAL LITURGYAfter the homily the catechumens are called forward
-430-432 : 2014 USCCB
-433-433 : 2011 Springs of Water
-434-435 : 1162 THE BAPTISMS One by one the candidates are led into the waters, or they bend over the font, and water is
-436-437 : 3110 APPENDIX: LECTIONARY ITEMS
-438-441 : 1188 SEQUENCE FOR PENTECOST
-442-442 : 1298 PRESENTATION OF THE LORD, BLESSING OF CANDLES AND PROCESSIONAs the candles are lighted, this antiphon
-443-443 : 105 Your word is a lamp for my feet,
-444-445 : 1299 During the procession, the following may be sung
+422-422 : 1088 The God of All Eternity
